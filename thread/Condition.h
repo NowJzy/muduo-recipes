@@ -13,6 +13,7 @@
 #include <boost/noncopyable.hpp>
 #include <pthread.h>
 #include <errno.h>
+#include <iostream>
 
 namespace muduo
 {
